@@ -1,0 +1,44 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+}
+
+
+.competition-section, .champion-list, .form-section {
+    border: 2px solid black;
+    margin: 15px;
+    padding: 10px;
+    width: 80%;
+}
+
+
+.competition-section {
+    background-color: #f0f0f0;
+}
+
+.champion-list {
+    background-color: #e0e0e0;
+}
+
+.form-section {
+    background-color: #d0d0d0;
+}
+
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th, td {
+    padding: 10px;
+    text-align: left;
+}
+
+
+img {
+    display: block;
+    margin: 0 auto;
+}
